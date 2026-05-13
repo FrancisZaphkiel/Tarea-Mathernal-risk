@@ -16,3 +16,6 @@ El balanceo de datos para el entrenamiento y testeo se establecerá en 80% entre
 
 ## Criterio de selección de modelo
 Para seleccionar el modelo a utilizar se priorizará en valor de recall para poder identificar correctamente a las personas con riesgo medio y alto, seguido del puntaje f1 para discriminar los modelos por la armonia que posee entre presición y recall, seguido de un analisis de la matriz de confusión para confirmar el buen desempeño del modelo.
+
+## Enlace de notebook google colab
+[Notebook de Google Colab: Maternal Health Risk](https://colab.research.google.com/drive/1vi64DtiVag2dbjGIBsqsZQaFQKKGZMdf?authuser=2#scrollTo=sTBvMASmexfq)
