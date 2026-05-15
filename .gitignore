@@ -1,0 +1,6 @@
+# Entornos virtuales
+.venv
+venv/
+
+# Dependencias
+node_modules/
